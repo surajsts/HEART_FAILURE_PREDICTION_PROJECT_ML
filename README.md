@@ -1,4 +1,4 @@
-# HEART_FAILURE_PREDICTION_PROJECT_ML
+# HEART FAILURE PREDICTION SYSTEM 
 
 <h2>A Machine Learning based project for predicting the heart failures and storing the robust model from analysing different ml algorithms for future use.</h2>
 
